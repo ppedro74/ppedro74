@@ -29,7 +29,9 @@ Occasionally explores problems usually reserved for Daniel Graystone's laborator
 
 I write software.
 
-## About Me
+<details>
+  <summary><b>About Me</b></summary>
+
 
 My ancestral homeland has some seriously chaotic lore. Our first Kwisatz Haderach started his career by overthrowing his own mother (1128) because she backed a rival House. After that, he launched a decades-long campaign to secure our independence. Clearly, karma is a baseline metric in our universe. Starting an empire by disrespecting your parents perfectly explains why things historically went off the rails for us.
 Despite the family drama, our House became unstoppable. In the grand cycle of 1494, we got so incredibly cocky that we sat down with our closest rivals and literally sliced the known universe into two halves just for our navigation paths. Why? We were utterly obsessed with finding a direct route to Arrakis well, our version of it. We successfully charted the ultimate route to the Spices, the most precious substance in the galaxy. And yes, the spice must flow, even if it's just to make dinner taste better.
@@ -63,9 +65,11 @@ If you've read this far... congratulations you already know exactly which movies
 Any striking similarity between this text and the output of a hyper-advanced AI generation tool is pure, unadulterated coincidence. Please rest assured that all AI models utilized in the brainstorming of this document were handled responsibly. Most importantly: no trees were deforested, no servers were permanently melted, and absolutely no mice or (MiceNoids&trade;) were harmed, injured, or emotionally distressed during the work of this text. 
 
 The spice continues to flow, and the code continues to build.
+</details>
 
+<details>
+  <summary><b>Equation of Everything</b></summary>
 
-## Equation of Everything 
 
 For me, **7 = 4**, but not in the way your math teacher would approve.
 
@@ -85,3 +89,5 @@ In my symbolic equation, the One is revealed in the Three, and so 1 + 3 becomes 
 And that's why **74** is special to me. it's a reminder that life isn't about becoming perfect. It's about remembering where perfection truly belongs.
 
 Besides... every good equation deserves a beautiful constant.
+</details>
+
