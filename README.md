@@ -17,8 +17,9 @@ I maintain a permanent passion for technology with eager focus on software devel
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00A67E?style=flat&logo=internetofthings&logoColor=white)
 
-## Professional
-
+<details>
+  <summary><b>Professional</b></summary>
+  
 Senior Software Engineer specializing in distributed cybernetic cognition, multi-modal sensor fusion, robotic behavioral orchestration, neuro-inspired computational systems, relativistic space-time abstraction, and applied murine humanoid (MiceNoid&trade;) intelligence.
 
 Current research interests include the intersection of software architecture, embedded electronics, robotics, neuroscience, virtual reality, autonomous agents, and the ongoing attempt to convince tiny mammals that they are, in fact, miniature humanoids.
@@ -28,6 +29,7 @@ Occasionally explores problems usually reserved for Daniel Graystone's laborator
 **Translation for normal humans:**
 
 I write software.
+</details>
 
 <details>
   <summary><b>About Me</b></summary>
