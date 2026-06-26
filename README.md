@@ -1,6 +1,4 @@
-# Pedro Pereira | @ppedro74
-
-## Intro
+# Pedro Pereira | ptp | @ppedro74
 Why 74? Because it's the constant that balances the **equation of everything**. Confused? Good. Keep reading.
 
 I maintain a permanent passion for technology with eager focus on software development and problem solving.
